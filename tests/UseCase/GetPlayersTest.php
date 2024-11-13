@@ -2,7 +2,7 @@
 
 namespace App\Tests\UseCase;
 
-use App\Infrastructure\Symfony\Command\GetPlayersCommand;
+use App\Infrastructure\Symfony\Command\Player\GetPlayersCommand;
 use Symfony\Bundle\FrameworkBundle\Console\Application;
 use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
 use Symfony\Component\Console\Command\Command;
